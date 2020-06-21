@@ -1,3 +1,5 @@
 Este es un párrafo agregado en el ejercicio de la clase de platzi
 
 Este es un segundo párrafo agregado
+
+Hoy hablaremos de su vida 
