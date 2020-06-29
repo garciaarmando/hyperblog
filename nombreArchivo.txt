@@ -3,6 +3,9 @@ Este es un párrafo agregado en el ejercicio de la clase de platzi
 Este es un segundo párrafo agregado
 
 Experimento 1
+
+Experimento 2
+
 Master 1
 
 Master 2
